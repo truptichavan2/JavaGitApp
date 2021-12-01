@@ -6,6 +6,8 @@ public class ClientApp {
 	{
 		Product p1 = new Product (101, "mobile");
 		System.out.println(p1);
+		
+		System.out.println("welcome");
 	}
 
 }
